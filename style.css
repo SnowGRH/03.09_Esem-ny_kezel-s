@@ -1,0 +1,13 @@
+.nev{
+    background-color: darkkhaki;
+    border: 1px solid;
+}
+img{
+    width: 300px;
+    height: 300px;
+
+}
+article{
+    display: flex;
+    flex-wrap: wrap;
+}
